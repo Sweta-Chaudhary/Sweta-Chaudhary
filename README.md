@@ -1,12 +1,12 @@
 <!-- Replace the image source with a direct link to your image -->
-<img align="right" alt="Coding" width="400" src="https://example.com/your-image.jpg">
+<img align="right" alt="Coding" width="400" src="[https://example.com/your-image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Ftop-15-best-coding-apps-beginners-2023-mehedi-hasan&psig=AOvVaw1Npbp_J37WFpzOch6NEKy_&ust=1719300343474000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKj7_Nra84YDFQAAAAAdAAAAABAJ)">
 
 <h1 align="center">Hi 👋, I'm Sweta Chaudhary</h1>
 <h3 align="center">A passionate Data Science Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweta-chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="sweta-chaudhary" /> </p>
 
-- 🌱 I’m currently learning **Data Visualization techniques and Machine Learning**
+- 🌱 I’m currently learning **Big Data Technologies**
 - 💬 Ask me about **Data Science**
 - 📫 How to reach me: swetachaudhary014@gmail.com
 - ⚡ Fun fact: I think I am Rude ^ ^
